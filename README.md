@@ -1,6 +1,8 @@
 # phi-2-prompt-injection-QLoRA
 - Training code for Prompt Injection Detection Model with LoRA Fine-tuning phi-2
 
+- phi-2 used for sequence classification task
+
 - reference: https://medium.com/@noufalsamsudin/microsoft-phi-2-for-classification-b83beaec2069
 
 - Fix to fit current implementation of phi-2 in huggingface. (03/07/2024)
